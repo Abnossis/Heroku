@@ -1,2 +1,2 @@
-# YouTubeClips
+# Heroku
 Group Project #1 
